@@ -1,0 +1,153 @@
+[
+    {
+        "productName": "TimberElegance",
+        "id": 1,
+        "price": 1200,
+        "img": "images/product1.png",
+        "color": "black"
+    },
+    {
+        "productName": "NatureChronos",
+        "id": 2,
+        "price": 3590,
+        "img": "images/image2.png",
+        "color": "white",
+        "category": "bracelet"
+    },
+    {
+        "productName": "WoodlandWrist",
+        "id": 3,
+        "price": 2560,
+        "img": "images/producr5.png",
+        "color": "black"
+    },
+    {
+        "productName": "CedarCrafted",
+        "id": 4,
+        "price": 5430,
+        "img": "images/image2.png",
+        "color": "black",
+        "category": "watches"
+    },
+    {
+        "productName": "ForestHewn Watche",
+        "id": 5,
+        "price": 4000,
+        "img": "images/product6.png",
+        "color": "white",
+        "category": "bracelet"
+    },
+    {
+        "productName": "GroveGlamour",
+        "id": 6,
+        "price": 6390,
+        "img": "images/image1.png",
+        "color": "white"
+    },
+    {
+        "productName": "Գյումրի",
+        "id": 7,
+        "price": 120,
+        "img": "images/image2.png",
+        "color": "white"
+    },
+    {
+        "productName": "EvergreenEra",
+        "id": 8,
+        "price": 120,
+        "category": "watches",
+        "img": "images/image1.png"
+    },
+    {
+        "productName": "RedwoodElegance",
+        "id": 9,
+        "price": 120,
+        "category": "watches",
+        "color": "white",
+        "img": "images/image1.png"
+    },
+    {
+        "productName": "OakLuxe",
+        "id": 10,
+        "price": 120,
+        "img": "images/product6.png"
+    },
+    {
+        "productName": "PineSerenity",
+        "id": 11,
+        "price": 120,
+        "img": "images/producr5.png"
+    },
+    {
+        "productName": "WalnutWonders",
+        "id": 12,
+        "price": 120,
+        "img": "images/image2.png"
+    },
+    {
+        "productName": "WillowWhisper",
+        "id": 13,
+        "price": 120,
+        "img": "images/product6.png"
+    },
+    {
+        "productName": "CherryCharm Time",
+        "id": 16,
+        "price": 120,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "CherryCharm Time",
+        "id": 17,
+        "price": 120,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "CherryCharm Time",
+        "id": 18,
+        "price": 120,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "CherryCharm Time",
+        "id": 19,
+        "price": 15000,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "CherryCharm Time",
+        "id": 20,
+        "price": 15000,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "CherryCharm Time",
+        "id": 21,
+        "price": 15000,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "AcornElegance",
+        "id": 22,
+        "price": 15000,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "ElmEmbrace Watches",
+        "id": 23,
+        "price": 15000,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "AcornElegance",
+        "id": 24,
+        "price": 15000,
+        "img": "images/product1.png"
+    },
+    {
+        "productName": "MapleHarmony Time",
+        "id": 25,
+        "price": 15000,
+        "img": "images/product1.png"
+    }
+]

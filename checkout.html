@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/watches.css">
+    <!-- website icon-->
+    <link rel="icon" href="./images/logo-main.png">
+    <title>Checkout</title>
+</head>
+
+<body>
+    <!-- checkout html -->
+    <div class="container">
+
+        <div class="checkouLayout">
+
+            <div class="returnCard">
+
+                <h1>List product in cart</h1>
+
+                <div class="listCheckout">
+
+                </div>
+
+            </div>
+            <!-- checkout right form -->
+            <div class="right">
+                <h1>Fill Form</h1>
+                <div class="form" id="formInchekout">
+                    <div class="group">
+                        <label for="">Name</label>
+                        <input type="text" name="name" id="name">
+                    </div>
+                    <div class="group">
+                        <label for="">Number</label>
+                        <input type="number" name="number" id="number" min="1" step="1" pattern="[0-9]*">
+                    </div>
+                    <div class=" group">
+                        <label for="">Address</label>
+                        <input type="text" name="address" id="address">
+                    </div>
+                    <div class="group">
+                        <label for="">Country</label>
+                        <select name="country" id="country">
+                            <option value="">choose...</option>
+                            <option value="Armenia">Հայաստան</option>
+                        </select>
+                    </div>
+                    <div class="group">
+                        <label for="">City</label>
+                        <select name="city" id="city">
+                            <option value="">choose...</option>
+                            <option value="Erevan">Երևան</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="return">
+                    <div class="row">
+                        <div>Total qantity</div>
+                        <div class="RowtotalQantity">60</div>
+                    </div>
+                    <div class="row">
+                        <div>Total price</div>
+                        <div class="totalPrice">60$</div>
+                    </div>
+                </div>
+                <div class="buttonCheckout">
+                    Order
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="./JS/checkout.js"></script>
+    <script src="./JS/localStorage.js"></script>
+
+</body>
+
+</html>
